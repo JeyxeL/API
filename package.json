@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Acceso con API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeyxeL/API.git"
+  },
+  "author": "@JeyxeL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeyxeL/API/issues"
+  },
+  "homepage": "https://github.com/JeyxeL/API#readme"
+}
